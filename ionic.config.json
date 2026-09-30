@@ -1,0 +1,7 @@
+{
+  "name": "Tareas-Movil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
